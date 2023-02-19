@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- Dark Mode -->
-<div align="center"> 
+<div align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
 </a>
