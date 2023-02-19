@@ -18,7 +18,7 @@ As a General Motors TRACK Software Engineer, I am working to expand my knowledge
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=black
-[linkedin-url]: https://linkedin.com/in/agilbert28
+[linkedin-url]: https://linkedin.com/in/austingilbert28
 
 <!--
 **agilbert28/agilbert28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
