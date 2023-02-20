@@ -14,9 +14,11 @@ As a General Motors TRACK Software Engineer, I am working to expand my knowledge
 <br/>
 
 <!-- SHIELDS -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]  [![Discord][discord-shield]][discord-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
+[discord-shield]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&color=black
+[discord-url]: https://discordapp.com/users/auz#4909
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=black
 [linkedin-url]: https://linkedin.com/in/austingilbert28
 
