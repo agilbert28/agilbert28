@@ -1,4 +1,4 @@
-### Hey 👋🏼, I'm Austin
+### Hey, <img src="https://media.giphy.com/media/8XaBSsyQaYFxxNqznU/giphy.gif" width="19" height="19"/> I'm Austin
 
 As a General Motors TRACK Software Engineer, I am working to expand my knowledge and skills in software engineering, development, and automation.
 
