@@ -1,6 +1,6 @@
 ### Hey, <img src="https://media.giphy.com/media/8XaBSsyQaYFxxNqznU/giphy.gif" width="19" height="19"/> I'm Austin
 
-As a General Motors TRACK Embedded Software Engineer at the Milford Proving Grounds, I am working to expand my knowledge and skills in software engineering, development, and automation. With a passion for homebrewed projects and new technologies, I aim to put my five foundational years of experience and creativity toward new projects and endeavors.
+As an Embedded Software Engineer at General Motors, I am working to expand my knowledge and skills in software engineering, development, and automation. With a passion for homebrewed projects and new technologies, I aim to put my five foundational years of experience and creativity toward new projects and endeavors.
 
 <!-- Dark Mode -->
 <div align="left"> 
