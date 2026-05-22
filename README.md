@@ -1,4 +1,4 @@
-### Hey, <img src="https://media.giphy.com/media/8XaBSsyQaYFxxNqznU/giphy.gif" width="19" height="19"/> I'm Austin
+### Hey, <img src="Images/hand-wave.gif" width="19" height="19"/> I'm Austin
 
 Under Construction...
 
