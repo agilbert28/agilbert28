@@ -2,16 +2,36 @@
 
 Under Construction...
 
-<!-- Dark Mode -->
-<div align="left"> 
-<a href="https://github.com/agilbert28/">
-<img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=agilbert28&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator,organization_member&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Austin Gilbert's Language stats" />
+<!-- User Dark/Light Mode -->
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=agilbert28&show_icons=true&icon_color=FF7518&include_all_commits=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=agilbert28&show_icons=true&icon_color=FF7518&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=agilbert28&show_icons=true&icon_color=FF7518&include_all_commits=true" />
+  </picture>
 </a>
-<a href="https://github.com/agilbert28/">
-<img height=150 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=agilbert28&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator,organization_member&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Austin Gilbert's Github stats" />
+&nbsp;
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=agilbert28&layout=compact&langs_count=8&card_width=320&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=agilbert28&layout=compact&langs_count=8&card_width=320"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=agilbert28&layout=compact&langs_count=8&card_width=320" />
+  </picture>
 </a>
-</div>
-<br/>
+<br>
+<br>
 
 <!-- SHIELDS -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
