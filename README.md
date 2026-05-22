@@ -6,7 +6,7 @@ Under Construction...
 <a href="https://github.com/Pranesh-2005/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=agilbert28&show_icons=true&icon_color=FF7518&include_all_commits=true&theme=dark"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=agilbert28&show_icons=true&icon_color=FF7518&border_color=3D444D&include_all_commits=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -20,7 +20,7 @@ Under Construction...
 <a href="https://github.com/Pranesh-2005/convoychat">
   <picture>
     <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=agilbert28&layout=compact&langs_count=8&card_width=320&theme=dark"
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=agilbert28&layout=compact&border_color=3D444D&langs_count=8&card_width=320&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
